@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# www.guyjames.com
+# [www.guyjames.com](http://guyjames.com)
 
 ### More Information
 
