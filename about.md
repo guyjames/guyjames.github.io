@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# www.guyjames.com
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Works with P2P Foundation, Cooperativa Integral Catalana, FairCoop, and Guerrilla Translation.
+Writer and musician. Jack of all trades, master of chaos.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[guy@p2pfoundation.net](mailto:email@domain.com)
