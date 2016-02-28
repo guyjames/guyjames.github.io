@@ -19,29 +19,29 @@ avatar: https://avatars2.githubusercontent.com/u/8144615
 footer-links:
   dribbble:
   email: guy@p2pfoundation.net
-  facebook:
+  facebook: https://facebook.com/guyjamesstaniforth
   flickr: guyjames
   github: guyjames/guyjames.github.io
   instagram:
   linkedin:
   pinterest:
-  rss: RSS
-  twitter: jekyllrb
+  rss: https://guyjames.github.io/feed.xml
+  twitter: guyjames23
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/yug23
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: guyjames
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://guyjames.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
