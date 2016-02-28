@@ -1,4 +1,6 @@
 ---
+layout: post
+title: New test post
 published: true
 ---
 
