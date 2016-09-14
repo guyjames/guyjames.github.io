@@ -14,3 +14,6 @@ Writer and musician. Jack of all trades, master of chaos.
 ### Contact me
 
 [guy@p2pfoundation.net](mailto:email@domain.com)
+
+PGP: [keybase.io/guyjames](https://keybase.io/guyjames)
+XMPP: guyjames@joindiaspora.com
